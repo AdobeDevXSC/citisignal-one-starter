@@ -4,19 +4,14 @@ This project boilerplate is for Edge Delivery Services projects that integrate w
 ## Documentation
 https://experienceleague.adobe.com/developer/commerce/storefront/
 
-## Environments - Doc-based
+## Environments - Edge URL
 
-- Preview: https://main--citisignal-doc--adobedevxsc.aem.page/
-- Live: https://main--citisignal-doc--adobedevxsc.aem.live/
-
-## Environments - AEM UE + Crosswalk
-
-- Preview: https://main--citisignal-one--adobedevxsc.aem.page/
-- Live: https://main--citisignal-one--adobedevxsc.aem.live/
+- Preview: https://main--citisignal-one-starter--yourgithubname.aem.page/
+- Live: https://main--citisignal-one-starter--yourgithubname.aem.live/
 
 ## Pre-requisites
 
-Out of the box, this project template uses a pre-configured Adobe Commerce environment. If you want to use your own Adobe Commerce environment, you'll need to update the `configs.xlsx` file in your content repository to have values that match your environment.
+Out of the box, this project template uses a pre-configured Adobe Commerce environment. If you want to use your own Adobe Commerce environment, you'll need to update the `configs.xlsx` or the `configs` file in your content repository to have values that match your environment.
 
 Additionally, you need to have the following modules and customizations installed on your environment:
 
